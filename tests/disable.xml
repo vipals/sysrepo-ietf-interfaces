@@ -1,0 +1,6 @@
+<interfaces xmlns="urn:ietf:params:xml:ns:yang:ietf-interfaces">
+  <interface>
+    <name>eth1</name>
+    <enabled>false</enabled>
+  </interface>
+</interfaces>
